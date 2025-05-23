@@ -1,0 +1,10 @@
+streamlit>=1.24.1
+pandas>=2.0
+numpy
+matplotlib
+wordcloud
+nltk
+scikit-learn
+sumy
+transformers
+torch
